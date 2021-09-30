@@ -1,0 +1,7 @@
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('João Pedro', 'jp@gmail.com', '1234567678');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('João Miguel', 'jm@gmail.com', '1234567679');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('Maria Silva, 'ms@gmail.com', '1234567680');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('Carlos Gil', 'cg@gmail.com', '1234567681');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('Bianca', 'bia@gmail.com', '1234567682');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('Cecilia', 'ceci@gmail.com', '1234567683');
+INSERT INTO TB_PESSOA (NOME, EMAIL, CPF) VALUES ('Carlos', 'carlos@gmail.com', '1234567684');
